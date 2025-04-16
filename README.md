@@ -4,7 +4,8 @@
    ...
 - 📫 programas comunes...
 -   analisis de datos...
--   ![un loro](https://capitalhumano.subturismo.gob.cl/wp-content/uploads/2023/03/logo-inacap-1024x277.png)
+-   <img src="https://capitalhumano.subturismo.gob.cl/wp-content/uploads/2023/03/logo-inacap-1024x277.png" alt="Descripción de la imagen" width="200" height="100">
+-   ![un loro]()
 
 <!---
 bpoblete146/bpoblete146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
